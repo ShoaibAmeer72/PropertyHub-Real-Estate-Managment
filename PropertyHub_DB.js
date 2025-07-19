@@ -1,7 +1,7 @@
 
 // PropertyHub - Real Estate Property Management System
 
-
+ use realestate;
 // 1. Users Collection
 
 db.createCollection("users", {
